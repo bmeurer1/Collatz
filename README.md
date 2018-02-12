@@ -4,7 +4,7 @@ Checks if a number (or all numbers in an interval) obeys the Collatz conjecture 
 
 ### Prerequisites
 
-Both programs require **GMP** and _collatzInterval_ also requires **pthread** libraries.
+Both programs require **GMP** but _collatzInterval_ also requires **pthread** library.
 
 To install **pthread** (Ubuntu):
 
